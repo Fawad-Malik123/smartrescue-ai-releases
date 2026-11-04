@@ -1,10 +1,10 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
+  "versionCode": 3,
+  "versionName": "0.3.0",
   "minSupportedVersionCode": 1,
-  "releaseNotes": "Adds in-app automatic update checker. Same auto device registration as before.",
-  "downloadUrl": "https://github.com/Fawad-Malik123/smartrescue-ai-releases/releases/download/v2-2/app-debug.apk",
-  "sha256": "2dca0bd6787f7b2b2497fbd1dd55c31087d45c098fb1438c340dee36c6aa731e",
+  "releaseNotes": "Fixes confirmation screen getting stuck at 0 seconds - now polls the backend until the automatic timeout resolution lands.",
+  "downloadUrl": "https://github.com/Fawad-Malik123/smartrescue-ai-releases/releases/download/v3-3/app-debug.apk",
+  "sha256": "b534f5a59afdb5ad0a25648f3ac2a52eb61e1ed8e2e172e5603f9470b53a81b8",
   "applicationId": "com.smartrescue.app",
   "signingCertSha256": "46:18:0F:7E:73:54:4F:EA:41:FC:DB:3A:EA:AA:42:9D:62:5C:8D:28:0B:41:73:2E:DB:D5:FD:83:2A:AA:2F:55"
 }
