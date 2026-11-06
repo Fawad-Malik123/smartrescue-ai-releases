@@ -1,10 +1,10 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
+  "versionCode": 4,
+  "versionName": "0.4.0",
   "minSupportedVersionCode": 1,
-  "releaseNotes": "Fixes confirmation screen getting stuck at 0 seconds - now polls the backend until the automatic timeout resolution lands.",
-  "downloadUrl": "https://github.com/Fawad-Malik123/smartrescue-ai-releases/releases/download/v3-3/app-debug.apk",
-  "sha256": "b534f5a59afdb5ad0a25648f3ac2a52eb61e1ed8e2e172e5603f9470b53a81b8",
+  "releaseNotes": "Adds on-device fall detection (turn it on from the home screen). A likely fall shows a full-screen 'Are you OK?' alarm with a countdown; answer I AM OK or SEND SOS. Emergency alerts remain simulated.",
+  "downloadUrl": "https://github.com/Fawad-Malik123/smartrescue-ai-releases/releases/download/v4-4/app-debug.apk",
+  "sha256": "31a4481284fbc2205e264c03e3fbd3337d66b38b62a0548b1692e61561b5c70d",
   "applicationId": "com.smartrescue.app",
   "signingCertSha256": "46:18:0F:7E:73:54:4F:EA:41:FC:DB:3A:EA:AA:42:9D:62:5C:8D:28:0B:41:73:2E:DB:D5:FD:83:2A:AA:2F:55"
 }
