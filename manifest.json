@@ -1,10 +1,10 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4.0",
-  "minSupportedVersionCode": 1,
-  "releaseNotes": "Adds on-device fall detection (turn it on from the home screen). A likely fall shows a full-screen 'Are you OK?' alarm with a countdown; answer I AM OK or SEND SOS. Emergency alerts remain simulated.",
-  "downloadUrl": "https://github.com/Fawad-Malik123/smartrescue-ai-releases/releases/download/v4-4/app-debug.apk",
-  "sha256": "31a4481284fbc2205e264c03e3fbd3337d66b38b62a0548b1692e61561b5c70d",
-  "applicationId": "com.smartrescue.app",
-  "signingCertSha256": "46:18:0F:7E:73:54:4F:EA:41:FC:DB:3A:EA:AA:42:9D:62:5C:8D:28:0B:41:73:2E:DB:D5:FD:83:2A:AA:2F:55"
+    "versionCode":  5,
+    "versionName":  "0.5.0",
+    "minSupportedVersionCode":  1,
+    "releaseNotes":  "Accident Protection with a new detection engine, a persistent Are-you-OK alarm (150 s) that survives restarts, offline-safe I\u0027M OK, emergency contacts (simulated labels) and calibration. Alerts remain simulated. Detection is not yet validated on real falls.",
+    "downloadUrl":  "https://github.com/Fawad-Malik123/smartrescue-ai-releases/releases/download/v5-5/app-debug.apk",
+    "sha256":  "a60dfdcad1dd1a4eeae0950a78f77412025bb44afb93c988487b8b8a8248faf6",
+    "applicationId":  "com.smartrescue.app",
+    "signingCertSha256":  "46:18:0F:7E:73:54:4F:EA:41:FC:DB:3A:EA:AA:42:9D:62:5C:8D:28:0B:41:73:2E:DB:D5:FD:83:2A:AA:2F:55"
 }
